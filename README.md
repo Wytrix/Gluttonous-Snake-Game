@@ -7,7 +7,7 @@ cloud ： 游戏背景云彩图片加载
 food ： 食物  
 gamecontroller ： 游戏逻辑和功能的控制  
 main ： 主程序入口  
-mainwindow : 窗口的创立  
+mainwindow ： 窗口的创立  
 snake ： 蛇体的形状和运动的控制  
 wall ： 四周墙壁  
 #### 功能
